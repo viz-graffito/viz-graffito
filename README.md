@@ -31,10 +31,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<p>
-  <a href="https://github.com/viz-graffito/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=viz-graffito&show_icons=true&hide_border=true&theme=dark" />
-  </a>
+
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -68,7 +65,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 
 <!-- Its main projects -->
-<p 
+<!-- <p 
   <a href="https://github.com/Viz-graffito/Students_Exams_EDA">
     <img width="455" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Viz-graffito&repo=Students_Exams_EDA&theme=dark&show_icons=true" />
   </a>
@@ -77,6 +74,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Viz-graffito&repo=Steam_Nov_Dataset_EDA&theme=dark&show_icons=true" />
   </a>
 </p>
-
+ -->
 [![Spotify](https://novatorem-mu-two.vercel.app/api/spotify)](https://www.spotify.com/us/account/overview/)
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->

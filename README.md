@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="400" height="200" align="right" alt="gif" src="https://user-images.githubusercontent.com/90683408/146691147-a77dd417-bc26-4a49-baf9-0312d0d63ee6.gif" />
+<img width="450" height="300" align="right" alt="gif" src="https://user-images.githubusercontent.com/90683408/146691147-a77dd417-bc26-4a49-baf9-0312d0d63ee6.gif" />
 <!-- Talking about you -->
 
 **Talking about Personal Stuffs:**
@@ -75,5 +75,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
   </a>
 </p>
  -->
-[![Spotify](https://novatorem-mu-two.vercel.app/api/spotify)](https://www.spotify.com/us/account/overview/)
+<!-- [![Spotify](https://novatorem-mu-two.vercel.app/api/spotify)](https://www.spotify.com/us/account/overview/) -->
+<a href="https://https-github-com-viz-graffito-natemoo-re.vercel.app/now-playing?open">
+    <img src="https://https-github-com-viz-graffito-natemoo-re.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
+
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->

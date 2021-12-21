@@ -1,16 +1,18 @@
 <!-- Your title -->
-## Hi, I'm Vijit Singh, a Self-taught Data Analyst and aspiring Data scientist from India.
-
+<div align="center">
+   <h2>Hi, I'm Vijit Singh, a Self-taught Data Analyst and aspiring Data scientist from India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+</div>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Viz-graffito)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vijit-singh-561162219/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/vizz_graffito/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](vijit:vijitsingh95@gmail.com)
-[![Tableau](https://img.shields.io/badge/-Tableau-3871c1?style=flat&logo=Tableau&logoColor=white)](vijit:https://public.tableau.com/app/profile/vijit.singh8031)
-
+<p align='center'>
+   <a href="https://www.linkedin.com/in/vijit-singh-561162219/"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/linkedin%20(1).png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/Viz-graffito"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/github.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vizz_graffito/"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/1e2atax0vrzwlutwwb71uaxjs?si=6d7aeac52be641d5"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/pngegg.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://public.tableau.com/app/profile/vijit.singh8031"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/tableau_logo1.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
+ 
 &nbsp;
 
 <!-- Any image aligned to the right. Beware the width -->
@@ -79,5 +81,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <a href="https://https-github-com-viz-graffito-natemoo-re.vercel.app/now-playing?open">
     <img src="https://https-github-com-viz-graffito-natemoo-re.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
+
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->

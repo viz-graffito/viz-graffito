@@ -78,9 +78,13 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
  -->
 <!-- [![Spotify](https://novatorem-mu-two.vercel.app/api/spotify)](https://www.spotify.com/us/account/overview/) -->
+<a >
+   <p><b> Now Playing <b/> on Spotify </p>
+</a>
+<p>
 <a href="https://https-github-com-viz-graffito-natemoo-re.vercel.app/now-playing?open">
     <img src="https://https-github-com-viz-graffito-natemoo-re.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
-
+</p>
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->

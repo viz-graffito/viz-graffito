@@ -58,6 +58,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> <a href="https://html.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
+  </a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="html" width="40" height="40"/>
   
 </p>
 

@@ -27,6 +27,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning scikit-learn; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: vijitsingh95@gmail.com;
+- 💼 Check out my [portfolio website](https://viz-graffito.github.io/vijitsingh/);
 
 **Languages and Tools:** 
 

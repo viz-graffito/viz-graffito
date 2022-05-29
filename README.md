@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="450" height="300" align="right" alt="gif" src="https://user-images.githubusercontent.com/90683408/146691147-a77dd417-bc26-4a49-baf9-0312d0d63ee6.gif" />
+<img width="1000" height="400" align="right" alt="gif" src="https://raw.githubusercontent.com/Viz-graffito/viz-graffito/main/undefined%20-%20Imgur.gif" />
 <!-- Talking about you -->
 
 **Talking about Personal Stuffs:**

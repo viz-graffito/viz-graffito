@@ -1,6 +1,6 @@
 <!-- Your title -->
 <div align="center">
-   <h2>Hi, I'm <a href="https://viz-graffito.github.io/vijitsingh/">Vijit Singh </a>, a Self-taught Data Analyst and aspiring Data scientist from India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+   <h2>Hi, I'm <a href="https://viz-graffito.github.io/vijitsingh/">Vijit Singh </a>, a Self-taught Data Scientist from India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 </div>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/

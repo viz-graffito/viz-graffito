@@ -1,6 +1,6 @@
 <!-- Your title -->
 <div align="center">
-   <h2>Hi, I'm <a href="https://viz-graffito.github.io/vijitsingh/">Vijit Singh </a>, a Self-taught Data Scientist from India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </h2>
+   <h2>Hi, I'm <a href="https://viz-graffito.netlify.app/">Vijit Singh </a>, a Self-taught Data Scientist from India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </h2>
 </div>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning keras; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: vijitsingh95@gmail.com;
-- 💼 Check out my [portfolio website](https://viz-graffito.github.io/vijitsingh/);
+- 💼 Check out my [portfolio website](https://viz-graffito.netlify.app/);
 
 **Languages and Tools:** 
 

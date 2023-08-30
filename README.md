@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="450" height="300" align="right" alt="gif" src="https://raw.githubusercontent.com/Viz-graffito/viz-graffito/main/video_2021-12-20_02-39-52.gif" />
+<img width="450" height="300" align="right" alt="gif" src="https://raw.githubusercontent.com/Viz-graffito/viz-graffito/main/cowboybebop_alternate.gif" />
 <!-- Talking about you -->
 
 **Talking about Personal Stuffs:**
@@ -44,7 +44,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/tableau-icon.svg" alt="dart" width="40" height="40"/> 
+  <img src="https://github.com/viz-graffito/viz-graffito/blob/main/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
   </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 

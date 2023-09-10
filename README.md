@@ -64,6 +64,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   
 </p>
 
+<p>
+  </a> <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/viz-graffito/viz-graffito/blob/main/flask.png" alt="flask" width="40" height="40"/>
+  </a> <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/viz-graffito/viz-graffito/blob/main/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
+  </a> <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/s/sagemaker.svg" alt="sagemaker" width="40" height="40"/>
+
+</p>
+
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great

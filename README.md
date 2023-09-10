@@ -66,7 +66,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <p>
   </a> <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/viz-graffito/viz-graffito/blob/main/flask.png" alt="flask" width="40" height="40"/>
+  <img src="https://github.com/viz-graffito/viz-graffito/blob/main/flask_white.svg" alt="flask" width="40" height="40"/>
   </a> <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/viz-graffito/viz-graffito/blob/main/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
   </a> <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 

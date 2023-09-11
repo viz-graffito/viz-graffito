@@ -11,7 +11,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.instagram.com/vizz_graffito/"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/1e2atax0vrzwlutwwb71uaxjs?si=6d7aeac52be641d5"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/pngegg.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://public.tableau.com/app/profile/vijit.singh8031"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/tableau_logo1.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://public.tableau.com/app/profile/vijit.singh8031"><img height="30" src="https://github.com/viz-graffito/viz-graffito/blob/bc2ccd8458f523f4998d11aaaf886c4597ee78b4/kaggle.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.kaggle.com/vizgraffito"><img height="30" src="https://github.com/viz-graffito/viz-graffito/blob/bc2ccd8458f523f4998d11aaaf886c4597ee78b4/kaggle.svg"></a>&nbsp;&nbsp;
  </p>
  
 &nbsp;

@@ -10,7 +10,8 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://github.com/Viz-graffito"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/github.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/vizz_graffito/"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/1e2atax0vrzwlutwwb71uaxjs?si=6d7aeac52be641d5"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/pngegg.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://public.tableau.com/app/profile/vijit.singh8031"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/tableau_logo1.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://public.tableau.com/app/profile/vijit.singh8031"><img height="30" src="https://github.com/Viz-graffito/viz-graffito/blob/main/tableau_logo1.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://public.tableau.com/app/profile/vijit.singh8031"><img height="30" src="https://github.com/viz-graffito/viz-graffito/blob/bc2ccd8458f523f4998d11aaaf886c4597ee78b4/kaggle.svg"></a>&nbsp;&nbsp;
  </p>
  
 &nbsp;
@@ -61,16 +62,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
   </a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="html" width="40" height="40"/>
-  
-</p>
-
-<p>
   </a> <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/viz-graffito/viz-graffito/blob/main/flask_white.svg" alt="flask" width="40" height="40"/>
   </a> <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/viz-graffito/viz-graffito/blob/main/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
   </a> <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/detain/svg-logos/blob/master/svg/s/sagemaker.svg" alt="sagemaker" width="40" height="40"/>
+  <img src="https://github.com/viz-graffito/viz-graffito/blob/89dd681462752a99cbd9089ce6dd747e24def8e0/SageMaker.svg" alt="sagemaker" width="40" height="40"/>
 
 </p>
 

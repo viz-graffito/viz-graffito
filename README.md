@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-- 👨🏽‍💻 I’m currently working on Deep Learning;
+- 👨🏽‍💻 I’m currently working on ANN;
 - 🌱 I’m currently learning keras; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: vijitsingh95@gmail.com;

@@ -66,10 +66,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img src="https://github.com/viz-graffito/viz-graffito/blob/257f862c1e35619c536b2a48ad5b826c228d06ab/flask_white_2.svg" alt="flask" width="40" height="38"/>
   </a> <a href="https://docs.streamlit.io/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/viz-graffito/viz-graffito/blob/main/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
-  </a> <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
+  </a> <a href="https://docs.aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/viz-graffito/viz-graffito/blob/89dd681462752a99cbd9089ce6dd747e24def8e0/SageMaker.svg" alt="sagemaker" width="40" height="40"/>
   </a> <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/viz-graffito/viz-graffito/blob/main/plot_ly.svg" alt="sagemaker" width="40" height="40"/>
+  <img src="https://github.com/viz-graffito/viz-graffito/blob/main/plot_ly.svg" alt="plotly" width="40" height="40"/>
   </a> <a href="https://docs.prefect.io/latest/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/viz-graffito/viz-graffito/blob/main/prefect.svg" alt="prefect" width="40" height="40"/>
 </p>

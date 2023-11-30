@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 - 👨🏽‍💻 I’m currently working on DL;
-- 🌱 I’m currently learning ANN; 
+- 🌱 I’m currently learning CNN; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: vijitsingh95@gmail.com;
 - 💼 Check out my [portfolio website](https://viz-graffito.netlify.app/);

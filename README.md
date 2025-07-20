@@ -1,6 +1,6 @@
 <!-- Your title -->
 <div align="center">
-   <h2> Hi, I'm <a href="https://viz-graffito.netlify.app/">Vijit Singh </a>, a Self-taught Data Scientist from India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </h2>
+   <h2> Hi, I'm <a href="https://viz-graffito.netlify.app/">Vijit Singh </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </h2>
 </div>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -17,7 +17,8 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="450" height="300" align="right" alt="gif" src="https://raw.githubusercontent.com/Viz-graffito/viz-graffito/main/wait-a-minute-gto.gif" />
+<img width="360" height="460" align="right" alt="gif" src="https://raw.githubusercontent.com/viz-graffito/viz-graffito/refs/heads/main/elsword.gif" />
+
 <!-- Talking about you -->
 
 **Talking about Personal Stuffs:**
